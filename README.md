@@ -1,0 +1,1 @@
+# learnDjango_sql_models_migrations
